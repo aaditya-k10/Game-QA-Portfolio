@@ -1,0 +1,18 @@
+Test Case ID:
+TC-003
+
+Title:
+Verify if boost meter is empty after the restart of the race
+
+Preconditions:
+- Game launched
+- Race started
+- Timer greater than 00:10
+
+Steps:
+1. Pause the race.
+2. Select Restart Race.
+3. Wait for countdown.
+
+Expected Result:
+The boost meter is empty of the player and ai which will ensure no ome gets unfair advantage.
