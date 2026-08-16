@@ -27,7 +27,6 @@ I approach game testing from both the **player's perspective** and a **QA engine
 
 ━━━━━━━━━━━━━━━━━━━━
 
-🎮 QA Portfolio
 
 ## 🎮 QA Portfolio
 
@@ -71,7 +70,6 @@ Practicing unscripted testing to discover issues that may not be covered by pred
 
 ━━━━━━━━━━━━━━━━━━━━
 
-🧪 QA Skills
 
 ## 🧪 QA Skills
 
@@ -86,7 +84,6 @@ Practicing unscripted testing to discover issues that may not be covered by pred
 
 ━━━━━━━━━━━━━━━━━━━━
 
-🛠️ Tools
 
 ## 🛠️ Tools & Technologies
 
@@ -101,7 +98,6 @@ Practicing unscripted testing to discover issues that may not be covered by pred
 
 ━━━━━━━━━━━━━━━━━━━━
 
-📚 Currently Learning
 
 ## 📚 Currently Learning
 
@@ -115,7 +111,6 @@ I'm continuously expanding my QA skills through practical projects and structure
 
 ━━━━━━━━━━━━━━━━━━━━
 
-📂 Repository Structure
 
 ## 📂 Repository Structure
 
@@ -141,7 +136,6 @@ Game-QA-Portfolio/
 
 ━━━━━━━━━━━━━━━━━━━━
 
-📫 Connect With Me
 
 ## 📫 Connect With Me
 
