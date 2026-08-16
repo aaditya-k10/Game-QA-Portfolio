@@ -1,89 +1,152 @@
-# 🎮 Game QA Portfolio
+# 🎮 Aaditya Kanpile
 
-> **Aspiring QA Engineer | Passionate about Game Testing & Game Development**
->
-> This repository showcases my hands-on learning journey in Quality Assurance through practical testing documents, bug reports, test cases, and exploratory testing.
+### Aspiring Game QA Engineer | Manual Testing • Game Testing • Defect Investigation
 
----
+> 🎮 I test games with a player's mindset and a QA engineer's attention to detail.
 
-## 👋 About Me
+I'm a Computer Engineering student building practical experience in **Game QA and Software Testing** through hands-on testing projects.
 
-Hi! I'm Aaditya Kanpile, an aspiring Quality Assurance (QA) Engineer with a strong interest in Game Testing and Game Development.
+My focus is on **manual game testing, test case design, exploratory testing, bug reporting, defect investigation, and regression testing**. I document issues with clear reproduction steps, expected vs. actual results, severity and priority assessment, and supporting evidence.
 
-I created this portfolio to document my QA learning journey, strengthen my testing skills, and build a professional portfolio that reflects my practical understanding of software testing.
+I enjoy exploring games beyond simply playing them — looking at **how features behave, where they break, and how the player experience can be improved.**
 
----
-
-## 📚 About This Repository
-
-This repository documents my journey of learning and practicing Quality Assurance (QA) testing.
-
-It contains practical QA artifacts that I created while studying software testing concepts and applying them to real-world scenarios.
-
-The purpose of this repository is to demonstrate my growth, organize my learning, and showcase my practical QA skills.
+🎯 **Currently seeking:** Game QA, Game Testing, and Manual QA internship opportunities.
 
 ---
 
-## 🛠 QA Skills
+## 🎯 What I Do
 
-- ✅ Manual Testing
-- ✅ Functional Testing
-- ✅ Smoke Testing
-- ✅ Sanity Testing
-- ✅ Regression Testing
-- ✅ Exploratory Testing
-- ✅ Bug Reporting
-- ✅ Test Case Design
-- ✅ Requirement Analysis
-- ✅ Test Investigation
-- ✅ Feature Verification
-- ✅ SDLC (Software Development Life Cycle)
-- ✅ STLC (Software Testing Life Cycle)
-- ✅ Git & GitHub
+I approach game testing from both the **player's perspective** and a **QA engineer's perspective**.
 
----
+- 🎮 **Manual Game Testing** — Test gameplay, controls, UI, menus, and core features.
+- 🐛 **Bug Reporting** — Document clear, reproducible defects with expected vs. actual results.
+- 🧪 **Test Case Design** — Create structured test cases covering positive, negative, and edge scenarios.
+- 🔎 **Exploratory Testing** — Investigate features beyond predefined test cases to uncover unexpected issues.
+- 🔄 **Regression Testing** — Re-test fixes and verify that changes have not introduced new defects.
+- 📋 **Defect Investigation** — Analyze issues, reproduce them, and document severity, priority, and supporting evidence.
+
+━━━━━━━━━━━━━━━━━━━━
+
+🎮 QA Portfolio
+
+## 🎮 QA Portfolio
+
+### 🔥 Hot Wheels Unleashed — Game QA Testing
+
+A hands-on testing project focused on investigating gameplay, controls, UI, and race functionality in **Hot Wheels Unleashed**.
+
+#### 🐛 Bug Reports
+Documented reproducible defects using structured QA reporting, including:
+- Clear reproduction steps
+- Expected vs. actual results
+- Severity & priority assessment
+- Supporting evidence
+- Retest considerations
+
+👉 [View Bug Reports](./Bug%20Reports)
+
+#### 🧪 Test Cases
+Designed structured test cases for gameplay and core features, including:
+- Positive & negative scenarios
+- Boundary and edge cases
+- Expected results
+- Actual results
+- Pass/Fail status
+
+👉 [View Test Cases](./Test%20Cases)
+
+#### 🔎 Test Investigations
+Investigated gameplay behaviour and unexpected issues by:
+- Reproducing reported behaviour
+- Exploring possible causes
+- Documenting observations
+- Identifying affected functionality
+
+👉 [View Test Investigations](./Test%20Investigations)
+
+#### 🗺️ Exploratory Testing
+Practicing unscripted testing to discover issues that may not be covered by predefined test cases.
+
+👉 [View Exploratory Testing](./Exploratory%20Testing)
+
+━━━━━━━━━━━━━━━━━━━━
+
+🧪 QA Skills
+
+## 🧪 QA Skills
+
+| Area | Skills |
+|---|---|
+| 🎮 Game QA | Gameplay Testing • Controls/Input Testing • UI Testing • Feature Testing |
+| 🧪 Testing | Manual • Functional • Smoke • Sanity • Regression • Exploratory |
+| 🐛 Defects | Bug Reporting • Reproduction • Severity & Priority • Defect Investigation |
+| 📋 Documentation | Test Case Design • Test Scenarios • Test Investigations • Test Documentation |
+| 🔄 QA Process | Requirement Analysis • SDLC • STLC • Feature Verification |
+| 🛠️ Workflow | Jira • Git & GitHub |
+
+━━━━━━━━━━━━━━━━━━━━
+
+🛠️ Tools
+
+## 🛠️ Tools & Technologies
+
+| Category | Tools |
+|---|---|
+| 🐛 Issue Tracking | Jira |
+| 🧪 API Testing | Postman |
+| 💻 Development | Python • C# |
+| 🔧 Version Control | Git • GitHub |
+| 📝 Documentation | Markdown • Microsoft Word |
+| 🎮 Game Platforms | PC |
+
+━━━━━━━━━━━━━━━━━━━━
+
+📚 Currently Learning
+
+## 📚 Currently Learning
+
+I'm continuously expanding my QA skills through practical projects and structured learning.
+
+- 🟢 **Jira & Agile QA Workflows**
+- 🟢 **SQL for QA & Data Validation**
+- 🟢 **Advanced Test Case Design**
+- 🟢 **Game QA Best Practices**
+- 🟢 **QA Automation Fundamentals**
+
+━━━━━━━━━━━━━━━━━━━━
+
+📂 Repository Structure
 
 ## 📂 Repository Structure
 
-```text
-📁 Bug Reports
-📁 Test Cases
-📁 Test Investigations
-📁 Feature Verification
-📁 Exploratory Testing
-📁 QA Learning
-```
+Game-QA-Portfolio/
+│
+├── 🐛 Bug Reports/
+│   └── Documented gameplay defects
+│
+├── 🧪 Test Cases/
+│   └── Structured functional test cases
+│
+├── 🔎 Test Investigations/
+│   └── Detailed investigation reports
+│
+├── 🗺️ Exploratory Testing/
+│   └── Unscripted testing sessions
+│
+├── 📚 QA Learning/
+│   └── QA concepts and fundamentals
+│
+└── 📄 README.md
+    └── Portfolio overview
 
----
+━━━━━━━━━━━━━━━━━━━━
 
-## 🛠 Tools & Technologies
+📫 Connect With Me
 
-- Git
-- GitHub
-- Visual Studio Code
-- Markdown
-- Microsoft Word
+## 📫 Connect With Me
 
----
+I'm always open to connecting with people interested in **Game QA, Software Testing, and the gaming industry**.
 
-## 🎯 Currently Learning
-
-- [ ] Jira
-- [ ] API Testing (Postman)
-- [ ] SQL for QA
-- [ ] Agile Testing
-- [ ] Advanced Test Case Design
-- [ ] Game QA Best Practices
-
----
-
-## 🚀 Goal
-
-To build a strong foundation in Software Testing and Game QA while continuously improving through practical projects and real-world testing experience.
-
----
-
-## 📬 Connect With Me
-
-- **GitHub:** https://github.com/aaditya-k10
-- **LinkedIn:** https://linkedin.com/in/aadityakanpile 
+- 💼 [LinkedIn](www.linkedin.com/in/aadityakanpile)
+- 🐙 [GitHub](https://github.com/aaditya-k10)
+- 🎮 [Game QA Portfolio](https://github.com/aaditya-k10/Game-QA-Portfolio)
